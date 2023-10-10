@@ -1,0 +1,61 @@
+
+
+
+.container{
+   background-color: rgb(192, 176, 206);
+   height: 200vh; 
+    width: 130vb; 
+   margin: auto;
+   padding: 50px;
+ }
+.container .container-1{
+ background-color: rgb(165, 150, 194);
+   width: 85%;
+   height: 98%;
+   margin: auto;
+}
+.container .container-1 .img-box{
+   width: 150px;
+   height: 150px;
+   border-radius: 50%;
+   border: 1px solid;
+   border-color: bisque;
+   /* display: grid; */
+   /* grid-row: 1fr 2; */
+   /* grid-template-rows: 1fr 2; */
+}
+ 
+.contacts-box1{
+   /* height: 80px; */
+   width: 150px;
+   margin-top: 200px;
+   position: relative;
+   position: absolute;
+   background-color: rgb(195, 209, 211);
+   padding: 30px;
+   color: mediumorchid;
+   font-size: small;
+   /* display: grid;
+   grid-template-rows: repeat(1fr,2);
+   gap: 20px; */
+}
+
+/* .container .container-1 .lang-2{
+   /* display: grid;
+   grid-template-rows: repeat(1fr,2);
+   gap: 20px;  */
+   /* width: 150px;
+   background-color: rgb(195, 209, 211);
+} */
+.img img{
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+   border-radius: 50%;
+   background-color: aqua;
+}
+.img {
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
+}
